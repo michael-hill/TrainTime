@@ -1,0 +1,30 @@
+
+.jumbotron {
+	text-align: center;
+	font-weight: bold;
+	border: 1px solid blue;
+}
+
+.panel {
+	border: 1px solid blue;
+	border-radius: 5px;
+}
+
+.panel-heading {
+	background-color: blue;
+	padding-left:10px;
+	padding-bottom:10px;
+	padding-top:5px;
+}
+
+.addTrain, .addTrainForm {
+	margin-top:10px;
+}
+
+.addTrainLabels {
+	font-weight: bold;
+}
+
+.btn-orange {
+	background-color: #FFC300 ;
+}
